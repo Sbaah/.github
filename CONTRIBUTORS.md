@@ -13,3 +13,5 @@ CONTRIBUTORS
     - [eslint for `dashboard`](https://github.com/eventzimmer/dashboard/issues/1)
 - [Timur Tarasenko](https://github.com/TimurTarasenko)
     - [fixed issue with recent_events view](https://github.com/eventzimmer/schema/pull/26/)
+- [Sefa Baah](https://github.com/Sbaah)
+    - [Help Redesign event cards](https://github.com/eventzimmer/site/issues/25)
